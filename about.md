@@ -2,7 +2,7 @@
 layout: about
 image: /assets/img/me.jpg # 왜 안들어갈까
 description: >
-  소연수인데요~
+  와주셔서 감사해요.
 # hide_description: true
 # redirect_from:
 #   - /download/
